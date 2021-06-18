@@ -1,4 +1,4 @@
-# Aplicacion Clima Challenge TELECOM
+# Aplicacion Clima Challenge by TELECOM
 
 Aplicacion para conocer el clima de 5 ciudades propuesto en challenge by TELECOM
 
