@@ -16,5 +16,5 @@ npx react-native run-android
 
 ## Autor ✒️
 
-* **Lic. Martin Cornejo** - *Dev Mobile* - [tincho22](https://github.com/tincho22)
+* **Lic. Martin Cornejo** - *Dev Mobile* - [tincho22](https://github.com/martincornejo92)
 
